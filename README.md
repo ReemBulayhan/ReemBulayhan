@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReemBulayhan
-- 👀 I’m interested in Web Developing and Designing
-- 🌱 I’m currently learning C#, JavaScript, HTML and CSS
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning ML
 - 📫 How to reach me: ReemBulayhan@gmail.com
 
 <!---
